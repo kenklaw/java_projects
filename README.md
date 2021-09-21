@@ -1,2 +1,3 @@
 # java_projects
-Collection of java projects
+Collection of java projects and practice
+
